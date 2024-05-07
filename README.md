@@ -1,4 +1,5 @@
-### Hi there, I am Nima, a pasionate data analyst 👋
+### Hello World, I am Nima 👋
+### I'm a Father, Data Analyst and Quant Enthusiast
 
 - 🔭 I’m currently working on automating analysis
 - 🌱 I’m currently learning Python

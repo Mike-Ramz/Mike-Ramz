@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Nima, a pasionate data analyst 👋
 
 - 🔭 I’m currently working on automating analysis
 - 🌱 I’m currently learning Python

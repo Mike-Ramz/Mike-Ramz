@@ -4,7 +4,7 @@
 
   * I’m currently working as a financial data analyst
   * Keep learning Python for analysis, automation and machine learning
-  * Building scenario for investment
+  * Building scenarios for investment
 
   ⚡ Fun fact: Big fan of martial arts!
   

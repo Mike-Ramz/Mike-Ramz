@@ -3,8 +3,8 @@
 👨‍💻 Data Analyst 🔥Quant Lover 🧑‍🎓 Machine Learning Student 🕵️‍♀️ Power BI Ninja
 
   * I’m currently working as a financial data analyst
-  * Keep learning Python for analysis, automation and machine learning
-  * Building scenarios for investment
+  * Keep adding to my Python skills for analysis, automation and machine learning
+  * Learning and building scenarios for investment
 
   ⚡ Fun fact: Big fan of martial arts!
   

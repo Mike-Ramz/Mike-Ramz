@@ -1,6 +1,6 @@
 # 🤖 Nima Ramezanpour
 
-👨‍💻 Data Analyst 🔥Quant Lover 🧑‍🎓 Machine Learning Student 🕵️‍♀️ Power BI Ninja
+👨‍💻 **Data Analyst** 🔥**Quant Lover** 🧑‍🎓 **Machine Learning Student** 🕵️‍♀️ **Power BI Ninja**
 
   * I’m currently working as a financial data analyst
   * Keep adding to my Python skills for analysis, automation and machine learning

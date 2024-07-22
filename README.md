@@ -1,4 +1,4 @@
-# 🤖 Nima Ramezanpour
+# 🤖 Mo Ramezanpour
 
 👨‍💻 **Data Analyst** 🔥**Quant Lover** 🧑‍🎓 **Machine Learning Student** 🕵️‍♀️ **Power BI Ninja**
 

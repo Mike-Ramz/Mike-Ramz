@@ -2,7 +2,7 @@
 
 👨‍💻 **Data Analyst** 🔥**Quant Geek** 🧑‍🎓 **Machine Learning Student** 🕵️‍♀️ **Power BI Ninja**
 
-  * I’m currently working as a financial data analyst
+  * I’m currently working as a financial data & risk analyst
   * Keep adding to my Python skills for analysis, automation and machine learning
   * Learning and building scenarios for investment
 

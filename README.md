@@ -8,4 +8,6 @@
 
   ⚡ Fun fact: Big fan of martial arts!
   
-  📫 How to reach me: www.linkedin.com/in/nimarr
+  📫 How to reach me: www.linkedin.com/in/moramezanpour
+
+

@@ -1,12 +1,12 @@
 ## 🤖 Mo Ramezanpour
 
-👨‍💻 **Data Science & ML Enthusiast** 🔥**Quant Geek** 🕵️‍♀️ **Power BI Ninja**
+**👨‍💻 Data Science & ML Enthusiast | 🔥 Quantitative Finance Explorer | 🕵️‍♀️ Power BI Ninja**
 
-  * I’m currently working as a financial data & risk analyst
-  * Keep adding to my Python skills for analysis, automation and machine learning
-  * Learning and building scenarios for investment
-
-  ⚡ Fun fact: Big fan of martial arts!
+🐍 Continuously enhancing my Python skills for data analysis, automation, and machine learning.\
+📈 Exploring and building investment scenarios to uncover opportunities in financial markets.\
+🚀 Passionate about using data science, machine learning, and AI to solve complex problems and create impactful solutions.
+  
+⚡ Fun fact: Big fan of martial arts!
   
   📫 How to reach me: www.linkedin.com/in/moramezanpour
 

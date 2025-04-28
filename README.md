@@ -1,4 +1,4 @@
-## 🤖 Mo Ramezanpour
+## 🤖 Mike Ramezanpour
 
 **👨‍💻 Data Science & ML Enthusiast | 🔥 Quantitative Finance Explorer | 🕵️‍♀️ Power BI Ninja**
 

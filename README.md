@@ -5,10 +5,10 @@
 🐍 Continuously enhancing my Python skills for data analysis, automation, and machine learning.\
 📈 Automation and analytics through Power BI, uncovering hidden insights and improving decision making and business performance.
 🚀 Passionate about using data science, machine learning, and AI to solve complex problems and create impactful solutions.
-  
 ⚡ Fun fact: Big fan of martial arts!
   
-  📫 How to reach me: www.linkedin.com/in/moramezanpour
+  📫 How to reach me: www.linkedin.com/in/mikeramezanpour
+
 
 
 ## Technologies Used

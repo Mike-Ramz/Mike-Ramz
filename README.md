@@ -9,7 +9,7 @@
 
 **🎯 My Power BI Portfolio**
 
-- 1. Payment Analysis
+- Payment Analysis
 - 📊 [**Check out the Interactive Report**](https://t.ly/ORGUy)
 
  ![1](https://github.com/user-attachments/assets/dc735cd4-2664-41fa-862c-418fdab6a31e)

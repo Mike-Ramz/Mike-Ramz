@@ -1,6 +1,6 @@
 ## 🤖 Mike Ramezanpour
 
-**🕵️‍♀️ Power BI Ninja | 👨‍💻 Data Science & ML Enthusiast | 🔥 Quantitative Finance Explorer**
+**📊 Power BI Developer | 👨‍💻 Data Science & ML Enthusiast | 🔥 Quantitative Finance Explorer**
 
 📈 Leveraging Power BI for advanced analytics, turning complex datasets into clear insights that drive business growth.\
 🚀 Passionate about using data science, machine learning, and AI to solve complex problems and create impactful solutions.\

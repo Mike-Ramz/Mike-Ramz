@@ -8,12 +8,16 @@
 
 **🎯 My Power BI Portfolio**
 
+- Sales Analysis
+- 📊 [**Check out the Interactive Report**](https://t.ly/PyfU6)
+
+ ![1](https://github.com/user-attachments/assets/d31e59af-62f4-42b5-b331-1ab55a9a762c)
+
+
 - Payment Analysis
 - 📊 [**Check out the Interactive Report**](https://t.ly/ORGUy)
-
+  
  ![1](https://github.com/user-attachments/assets/dc735cd4-2664-41fa-862c-418fdab6a31e)
-
-
 
 
 
